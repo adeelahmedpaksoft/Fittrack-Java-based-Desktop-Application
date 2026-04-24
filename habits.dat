@@ -1,0 +1,11 @@
+id,username,name,description,frequency,category,icon,target,unit,createdDate,completedDates
+1,alex,Drink 8 Glasses of Water,Stay hydrated throughout the day,DAILY,HYDRATION,💧,8,glasses,2026-04-23,2026-04-15|2026-04-14|2026-04-13|2026-04-12|2026-04-11|2026-04-22|2026-04-21|2026-04-20|2026-04-19|2026-04-18|2026-04-17|2026-04-16
+2,alex,Sleep 8 Hours,Get proper recovery sleep,DAILY,SLEEP,💤,8,hours,2026-04-23,2026-04-22|2026-04-21|2026-04-20|2026-04-19|2026-04-18|2026-04-17|2026-04-16
+3,alex,Eat 5 Servings of Veg,Maintain healthy nutrition,DAILY,NUTRITION,🥗,5,servings,2026-04-23,2026-04-21|2026-04-20|2026-04-19|2026-04-18
+4,alex,10 Min Meditation,Morning mindfulness practice,DAILY,MINDFULNESS,🧘,10,minutes,2026-04-23,2026-04-14|2026-04-12|2026-04-10|2026-04-22|2026-04-20|2026-04-18|2026-04-16
+5,alex,30 Min Walk,Daily step goal,DAILY,EXERCISE,🚶,30,minutes,2026-04-23,2026-04-22|2026-04-21|2026-04-20|2026-04-19|2026-04-18
+6,admin,Drink 8 Glasses of Water,Stay hydrated throughout the day,DAILY,HYDRATION,💧,8,glasses,2026-04-23,2026-04-15|2026-04-14|2026-04-13|2026-04-12|2026-04-11|2026-04-22|2026-04-21|2026-04-20|2026-04-19|2026-04-18|2026-04-17|2026-04-16
+7,admin,Sleep 8 Hours,Get proper recovery sleep,DAILY,SLEEP,💤,8,hours,2026-04-23,2026-04-22|2026-04-21|2026-04-20|2026-04-19|2026-04-18|2026-04-17|2026-04-16
+8,admin,Eat 5 Servings of Veg,Maintain healthy nutrition,DAILY,NUTRITION,🥗,5,servings,2026-04-23,2026-04-21|2026-04-20|2026-04-19|2026-04-18
+9,admin,10 Min Meditation,Morning mindfulness practice,DAILY,MINDFULNESS,🧘,10,minutes,2026-04-23,2026-04-14|2026-04-12|2026-04-10|2026-04-22|2026-04-20|2026-04-18|2026-04-16
+10,admin,30 Min Walk,Daily step goal,DAILY,EXERCISE,🚶,30,minutes,2026-04-23,2026-04-22|2026-04-21|2026-04-20|2026-04-19|2026-04-18
