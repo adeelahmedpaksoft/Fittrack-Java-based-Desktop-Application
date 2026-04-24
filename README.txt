@@ -1,5 +1,5 @@
 ====================================================
-  FitTrack Pro — SET11103 Coursework
+  FitTrack Pro 
   Fitness, Habit & Activity Tracking System
 ====================================================
 
